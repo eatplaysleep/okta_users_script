@@ -1,0 +1,20 @@
+{
+	"name": "userscripts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@okta/okta-sdk-nodejs": "^5.0.0",
+		"async": "^3.2.0",
+		"command-line-args": "^5.0.2",
+		"csvtojson": "^2.0.8",
+		"json2csv": "^5.0.0",
+		"prompts": "^2.4.1"
+	}
+}

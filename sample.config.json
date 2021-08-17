@@ -1,0 +1,14 @@
+{
+	"okta": {
+		"orgUrl": "https://[org_url]",
+		"token": "[api_key]"
+	},
+	"excludeUsers": ["id"],
+	"userlist": {
+		"workercount": 10
+	},
+	"userdelete": {
+		"workercount": 10
+	},
+	"rateLimitThreshold": 0.3
+}
